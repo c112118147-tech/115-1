@@ -37,9 +37,11 @@
 
 [Youtube] 
 （http://tw.youtube.com）
-
+---
 程式碼（Python）
+```
 print("Hello, World!")
+```
 
 
 > 愛因斯坦名言：人生就像騎單車，要保持平衡，就必須一直向前。
